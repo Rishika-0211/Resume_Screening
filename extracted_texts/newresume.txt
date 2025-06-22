@@ -1,0 +1,56 @@
+ 
+         k. Rishika Reddy 
+                                                +91 9381889270 | Nellore, India | kanmanthareddyrishikareddy@gmail.com 
+                                                              https://www.linkedin.com/in/k-rishika-reddy-61813a321/ |                             
+                                                               https://github.com/Rishika-0211 
+ 
+ 
+ 
+EDUCATION 
+Bachelor of Computer Science and Engineering(core), university/VIT-AP, 9.18 CGPA 
+2023- 2027  
+ 
+SKILLS 
+Programming Languages: C and C++, Java (Intermediate), Python (Beginner) 
+Database and Language:  MySQL, SQL (Intermediate) 
+Course Work: Database and management system, Object-Oriented Programming, Software Development 
+                          Computer Networks, Operation Systems, Data Structures, and Algorithms  
+Soft Skills:      Collaboration, Communication, Planning, Teamwork, Time Management, Leadership 
+ 
+Technical EXPERIENCE 
+1. Hackathon Participation                                                                                                                November 2024 
+            Role: Participant 
+            Event: Techno Hackathon 
+            Duration:24 hour            
+            Description: 
+                 Nov 2024 | Organized by NextGen Cloud in collaboration with COE, sponsored by Purple Technologies 
+• Participated in a 24-hour hackathon focused on innovation and real-time problem-solving. 
+• Engaged in team collaboration to design and propose tech-based solutions for practical challenges. 
+• Gained hands-on experience in rapid development, brainstorming, and presenting ideas under pressure. 
+ 
+  2. Club Work / Technical Team 
+                  Role: Team Member 
+                  Club: AIPT (Artificial Intelligence Productive Tools) Club, Mansi (art club), VIT-AP 
+                   Description: 
+• 
+Contributed to projects involving OpenCV, Windpipe, and AI tools. 
+• 
+Participated in workshops  
+• 
+Marketing team member in Mansi club  
+PROJECTS 
+          Rock-paper-Scissors - Github 
+     Developed an interactive Rock-Paper-Scissors game with Player vs. Computer mode, where users manually choose their move. • 
+Includes an Auto Play feature that runs multiple rounds automatically. • Displays results with both choices and announces the 
+winner. • A Reset Score button prompts confirmation before resetting the score 
+           Tic-Tac-Toe - GitHub 
+Tech Stack: HTML, CSS, JavaScript 
+• Developed a browser-based Tic Tac Toe game with interactive UI and two-player functionality. 
+• Implemented game logic using JavaScript to handle turns, win/draw conditions, and reset feature. 
+• Practiced DOM manipulation and responsive design for a smooth user experience. 
+ 
+ACHIEVEMENTS | CERTIFICATIONS 
+Java Programming Certificate - https://drive.google.com/file/d/1aujMxu0tybvIgL3cVYBghqlOdMtEA2s3/view 
+Certificate of Participation – "Techno" Hackathon 2024 - https://drive.google.com/file/d/1JAyfcRwdXhMkXekeDcwZjCSeHTokrCf9/view 
+IBM Course – GEN AI - https://courses.vit.skillsnetwork.site/certificates/a1f398c1c9ed4353acafa9a097d1af61 
+ 

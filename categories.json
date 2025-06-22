@@ -1,0 +1,6 @@
+
+{
+    "Data Science": ["machine learning", "pandas", "numpy", "tensorflow", "data analysis", "python"],
+    "Software Development": ["java", "c++", "spring", "node.js", "react", "development"],
+    "HR": ["recruitment", "onboarding", "employee relations", "talent", "SAP HR"]
+}
