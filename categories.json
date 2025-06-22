@@ -1,6 +1,15 @@
-
 {
-    "Data Science": ["machine learning", "pandas", "numpy", "tensorflow", "data analysis", "python"],
-    "Software Development": ["java", "c++", "spring", "node.js", "react", "development"],
-    "HR": ["recruitment", "onboarding", "employee relations", "talent", "SAP HR"]
+  "categories":  [
+    "Data Science", 
+    "Software Development", 
+    "HR", 
+    "Product Manager", 
+    "UI/UX Designer", 
+    "Marketing", 
+    "DevOps Engineer", 
+    "Business Analyst", 
+    "Cybersecurity Analyst",
+    "DevOps Engineer", 
+    "ML Engineer"
+]
 }
